@@ -1,4 +1,4 @@
-****Для GNU/Linux Debian 13 x64****
+****Для GNU/Linux Debian 13 x64  Trixie****
  
  
 *****Установка из файла*****
@@ -24,7 +24,7 @@ xargs apt-get install < FILENAME.txt
 
 
 ----------
-****Deb 2 - Debian 13 repository****
+****Debian 13 repository****
 
 /etc/apt/sources.list
 
