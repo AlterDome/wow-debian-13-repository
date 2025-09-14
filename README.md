@@ -38,6 +38,7 @@ deb-src http://security.debian.org/debian-security trixie-security main non-free
 
 deb http://deb.debian.org/debian/ trixie-updates main non-free-firmware
 deb-src http://deb.debian.org/debian/ trixie-updates main non-free-firmware
+
 ###################################
 
 
