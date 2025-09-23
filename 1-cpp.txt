@@ -1,0 +1,8 @@
+c++-annotations-dvi
+c++-annotations-html
+c++-annotations-pdf
+c++-annotations-txt
+c++-annotations-contrib
+c++-annotations-ps
+c++-annotations
+c++-annotations-latex

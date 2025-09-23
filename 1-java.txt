@@ -1,0 +1,17 @@
+javacc4
+javacc5
+java2html
+javahelp2-doc
+javahelp2
+javacc
+javamorph
+java-common
+java-wrappers
+javahelper
+javacc4-doc
+javacc5-doc
+javacc-doc
+java-policy
+java-propose-classpath
+java3ds-fileloader
+javascript-common
