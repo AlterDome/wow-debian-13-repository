@@ -62,3 +62,4 @@ multiboot
 syslinux-utils
 syslinux
 syslinux-efi
+gparted
