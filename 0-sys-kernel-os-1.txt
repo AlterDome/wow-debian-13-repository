@@ -63,3 +63,5 @@ syslinux-utils
 syslinux
 syslinux-efi
 gparted
+fuse
+libfuse-dev
